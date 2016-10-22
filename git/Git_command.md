@@ -2,7 +2,7 @@
 
 ### 1 Work flow & Proper Nouns
 
-![v](http://www.ruanyifeng.com/blogimg/asset/2015/bg2015120901.png)
+![](http://www.ruanyifeng.com/blogimg/asset/2015/bg2015120901.png)
 
 **1. `WorkSpace` : 持有可实际需要编辑文件**
 **2. `Index / Stage` :  暂存区=缓存区=购物车，临时存放你的改动**
